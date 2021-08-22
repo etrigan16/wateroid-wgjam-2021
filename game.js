@@ -53,6 +53,9 @@ const WINDOW_WIDTH = window.innerWidth;
 // loadSprite('kraken-closed-eye', 'MPKanq6.png') // [img]https://i.imgur.com/MPKanq6.png[/img]
 // loadSprite('bag', 'v5elL0k.png') // [img]https://i.imgur.com/v5elL0k.png[/img]
 
+
+loadSprite('celular-con-luz', './images/sprites/celular-con-luz.png')
+loadSprite('celular-sin-luz', './images/sprites/celularsinluz.png')
 loadSprite('invisible-wall', './images/sprites/wall-transparent.png')
 loadSprite('left-wall', './images/sprites/25 - rfDoaa1.png')
 loadSprite('top-wall', './images/sprites/24 - QA257Bj.png')
